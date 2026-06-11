@@ -8,7 +8,7 @@ print("\nHello", name)
 if interest == "coding":
     print("Recommended Careers:")
     print("- Software Engineer")
-    print("- AI Engineer
+    print("- AI Engineer")
     print("- Data Scientist")
 
 elif interest == "electronics":
@@ -29,5 +29,4 @@ elif interest == "business":
     print("- Marketing Manager")
 
 else:
-    print("Invalid input! Please enter: coding, electronics, biology, or business.")
-    
+    print("Please enter a valid interest.")
